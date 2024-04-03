@@ -9,12 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  responsive_framework:
-    path: ../
+  # responsive_framework:
+    # path: ../
   # Uncomment to build standalone project.
-  #  responsive_framework: ^1.0.0
+  responsive_framework: ^1.0.0
   navigation_utils:
-    path: navigation_utils
+    # path: navigation_utils
   google_fonts: ^4.0.3
   animations: ^2.0.7
   loading_gifs: ^0.3.0
